@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @odacrem123
+- 👋 Hi, I’m Dave Mercado
 - 👀 I’m interested in leaning FULLSTACK web development 
 - 🌱 I’m currently learning frontend ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)
 - 💞️ I’m looking to collaborate on any frontend, backend and database design.
